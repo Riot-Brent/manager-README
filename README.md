@@ -75,7 +75,8 @@ Looking to strike up a casual conversation? Here are some topics I’m always ha
   - **Tibbers** (left)
   - **Goomba** (right)
   
-![Tibbers and Goomba](images/dog_image.jpg)
+![Tibbers and Goomba](dogs1.png)
+![Tibbers and Goomba](dogs2.png)
 
 ---
 
